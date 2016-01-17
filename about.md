@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Ill conceived culture jamming and sharing for friends.
+Welcome to the Sunday morning Internet.<br>Nothing more than ill conceived culture jamming and sharing for friends.<br>Fork and post at your pleasure.
